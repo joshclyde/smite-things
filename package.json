@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "date-fns": "^2.14.0",
+    "fs-extra": "^9.0.0",
+    "prettier": "1.13.7"
+  }
+}
